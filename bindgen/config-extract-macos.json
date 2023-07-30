@@ -1,0 +1,7 @@
+{
+  "inputFilePath": "../src/c/production/Remotery/lib/Remotery.h",
+  "platforms": {
+    "aarch64-apple-darwin": {},
+    "x86_64-apple-darwin": {}
+  }
+}

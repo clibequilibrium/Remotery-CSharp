@@ -1,0 +1,6 @@
+{
+  "cMakeDirectoryPath": "../src/c/production/Remotery/",
+  "outputDirectoryPath": "../lib",
+  "deleteBuildFiles": true,
+  "cMakeArguments": []
+}
