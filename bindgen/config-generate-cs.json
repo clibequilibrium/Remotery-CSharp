@@ -4,7 +4,6 @@
   "namespaceName": "Remotery",
   "className": "PInvoke",
   "libraryName": "Remotery",
-  "headerCodeRegionFilePath": "./header.cs",
   "mappedNames": [
 ],
   "ignoredNames": [
